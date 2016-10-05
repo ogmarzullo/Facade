@@ -4,8 +4,8 @@
 #### **Curso:** Análise e Desenvolvimento de Sistemas 
 #### **Docente**: Prof. Angelo Luz
 #### **Discentes**: Otávio Garcia Marzullo
-#### **E-mails**: otaviogarciamarzullo@gmail.com 
-#### **Padrões de Desenvolvimento escolhido**: Facade 
+#### **E-mail**: otaviogarciamarzullo@gmail.com 
+#### Padrões de Desenvolvimento escolhido: Facade 
 
 ### **História:**
   O uso de padrões surgiu na arquitetura civil e posteriormente, o mesmo conceito foi utilizado na computação, nas áreas de engenharia de software e interação humano-computador.

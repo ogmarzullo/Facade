@@ -19,4 +19,4 @@
   O Padrão Facade nos permite desconectar a implementação do cliente de qualquer subsistema. Assim, se quiséssemos acrescentar novas funcionalidades no subsistema seria necessário apenas alterar a Facade ao invés de alterar diversos pontos do sistema.
   
 ### **Conclusão:**  
-  O Padrão Facade é utilizado quando precisamos simplificar e unificar uma interface grande ou um conjunto complexo de interfaces. Uma das vantagens do padrão Facade é desconectar o cliente de um subsistema complexo. Um sistema pode ter diversos Facades simplificando diversos pontos do programa.
+  O Padrão Facade é utilizado quando precisamos simplificar e unificar uma interface grande ou um conjunto complexo de interfaces. 
